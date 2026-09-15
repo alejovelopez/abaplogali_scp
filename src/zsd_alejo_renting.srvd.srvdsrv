@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition Renting'
+define service Zsd_alejo_renting {
+  expose zi_ale_renting       as Cars;
+  expose zb_alejo_detcustomer as Customers;
+}
